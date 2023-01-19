@@ -36,7 +36,8 @@ form img{
 form{
     background-color: white;
     margin-bottom: 10px;
-    width: 350px;
+    width: 360px;
+    height: 425px;
     border: solid 1px  #e4d7d7;   
     align-items: center;
     display: inline-block;
