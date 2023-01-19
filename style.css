@@ -4,13 +4,74 @@
     padding:0;
 }
 :root{
-    
+    --grey-0: #f5f5f5;
+    --blue-2: #b3dbff;
+    --blue-4: #47afff;
+    --blue-5: #0095f6;
+    --blue-6: #0074cc;
+    --blue-7: #0057a3;
+    --blue-9: #002952;
 
 }
-.html{
-   background-color: gray;
+head{
+    margin: auto;
+    width: 100vh;
+    align-items: center;
 }
-.body{
-    background-color: gray;
+form img{
+    width: 175px;
+    right: 51px;
+    padding:1rem;
+    margin: 1rem;
+}
+html{
+   background-color:#f5f5f5;
+   align-items: center;
+   text-align: center;
+   margin: auto;
+}
+form{
+    background-color: white;
+    width: 350px;
+    height: 403px;
+    border: solid 1px hwb(207 73% 23%);
+    align-items: center;
+    display: inline-block;
 
 }
+form input{
+    width: 267px;
+    padding: 9px;
+    margin: 8px;
+}
+form input#botao{
+    background-color:#47afff;
+    width: 267px;
+    border: none;
+    border-radius: 5px;
+
+
+}
+form #e_f, #li{
+    text-align: center;
+    position:static;
+
+    display: inline;
+    width: 25px;
+    right: 25px;
+    margin: 15px;
+}
+
+footer img{
+    background-color: white;
+    width: 134px;
+    right: 40px;
+    border: solid 1px black;
+    align-items: center;
+    display: inline-block;
+   
+}
+ .rsenha{
+    font-size: 12px;
+}
+
