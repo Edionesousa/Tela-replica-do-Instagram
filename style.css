@@ -53,10 +53,9 @@ form input#botao{
 
 
 }
-form #e_f, #li{
+form #e_f{
     text-align: center;
     position:static;
-
     display: inline;
     width: 25px;
     right: 25px;
@@ -77,14 +76,13 @@ footer img{
 }
 div p{
     background-color: white;
-    margin: auto;
-    width: 330px;
-    height: 30px;  
-    padding:10px;
-    gap: 10px;
-    border: 1.250;
     align-items: center;
     text-align: center;
+    margin: auto;
+    width: 350px;
+    height: 30px;  
+    padding:px;
+    border: 1.250;
     border: solid 1px  #ebe2e2;
 }
 
