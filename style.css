@@ -54,7 +54,7 @@ form input{
     margin: 8px;
     margin-bottom: 8px;
 }
-form input#botao{
+form input #botao{
     background-color:#47afff;
     padding: 5px;
     margin: 0px;
@@ -67,27 +67,21 @@ form input#botao{
 
 
 }
-form #e_f{
-    display:inline-block;
+img#e_f{
+    display:contents;
     position: relative;
     display: inline;
     width: 25px;
     right: 25px;
-    margin: 2px;
+    margin: 0px;
     padding: 0px;
-    margin: 10px 10px -15px 0px;
    
 }
 div #cadastro1{
-    display:inline-block;
-    align-items: center;
-    margin-bottom: 5px;
-    margin: auto;
+    display:contents;
 }
  a{ 
-    display: inline-block;
     color: #47afff;
-    margin-top: 15px;
     text-decoration: none;
 }
 form.rodape{
@@ -123,13 +117,7 @@ footer{
     width: 350px;
     height: 40px;
 }
-.p2{
-    background-color: none;
-    margin: 50%;
-    color: #47afff;
-}
-
- .rsenha{
+.rsenha{
     display: inline;
     margin:auto;
     padding:0px;
