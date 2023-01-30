@@ -63,8 +63,6 @@ form #botao{
     width: 289px;
     border: none;
     border-radius: 5px;
-
-
 }
 img#e_f{
     display:contents;
@@ -86,12 +84,6 @@ form.rodape{
     background-color:#f5f5f5;
     border: none;
 }
-footer{
-    width: 350px;
-    margin: auto;
-    margin-bottom: 5px;
-    text-align: center;
-}
 
 footer img.imagem{
     background-color: white;
@@ -111,7 +103,7 @@ footer{
     margin-left: 0px;
     margin-right: 0px;
     margin: auto;
-    width: 350px;
+    width: 360px;
     height: 40px;
 }
 .rsenha{
@@ -137,5 +129,10 @@ div#sep{
     padding: -2px;
     width: 289px;
     margin: 4px;
+}
+div.gap{
+    width: 360px;
+    height: 25px;
+
 }
  
