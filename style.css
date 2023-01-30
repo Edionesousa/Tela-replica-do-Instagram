@@ -26,7 +26,7 @@ header{
     width: 100px;
     align-items: center;
 }
-form img{
+div img{
     width: 175px;
     right: 51px;
     padding:2rem;
@@ -64,14 +64,14 @@ form #botao{
     border: none;
     border-radius: 5px;
 }
-img#e_f{
-    display:contents;
-    position: relative;
-    display: inline;
-    width: 25px;
+div #img{
+    width: 10px;
     right: 25px;
     margin: 0px;
     padding: 0px;
+}
+div#e_f{
+    display: block;
 }
 div #cadastro1{
     display:contents;
