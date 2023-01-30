@@ -15,9 +15,9 @@
 
 }
 html{
-  background-color:#f5f5f5;
-  text-align: center;
-  min-width: 300px;
+    background-color:#f5f5f5;
+    text-align: center;
+    min-width: 300px;
 
 }
 header{
@@ -35,7 +35,6 @@ form img{
 
 form{
     background-color: white;
-    margin-bottom: 10px;
     width: 360px;
     height: 425px;
     border: solid 1px  #e4d7d7;   
@@ -54,7 +53,7 @@ form input{
     margin: 8px;
     margin-bottom: 8px;
 }
-form input #botao{
+form #botao{
     background-color:#47afff;
     padding: 5px;
     margin: 0px;
@@ -75,7 +74,6 @@ img#e_f{
     right: 25px;
     margin: 0px;
     padding: 0px;
-   
 }
 div #cadastro1{
     display:contents;
@@ -102,7 +100,6 @@ footer img.imagem{
     width: 134px;
     right: 40px;
     display: fixed;
-   
 }
 span{
     background-color: #f5f5f5;
